@@ -9,6 +9,8 @@ ipykernel = "*"
 [packages]
 flask = "*"
 python-dotenv = "*"
+wtforms = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.8"
