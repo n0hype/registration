@@ -13,7 +13,7 @@ Simple conference registration.
 
 ## Authors
 
-* n0hype '8980c10ead96daa7d38f34b4637d397c233eaa632e965556d2d3b771a7bf1579' [CHECK](https://www.xorbin.com/tools/sha256-hash-calculator)
+* n0hype
 
 ## License
 
